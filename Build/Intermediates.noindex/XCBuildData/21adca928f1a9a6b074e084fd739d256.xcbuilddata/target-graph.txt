@@ -1,0 +1,14 @@
+Target dependency graph (6 targets)
+Target 'AppIPFS' in project 'AppIPFS'
+➜ Explicit dependency on target 'IPFSHandler' in project 'IPFSHandler'
+Target 'IPFSHandler' in project 'IPFSHandler'
+➜ Explicit dependency on target 'IPFSHandler' in project 'IPFSHandler'
+➜ Explicit dependency on target 'IPFSHandler_IPFSHandler' in project 'IPFSHandler'
+➜ Explicit dependency on target 'IPFSAPICleint' in project 'IPFSHandler'
+Target 'IPFSHandler' in project 'IPFSHandler'
+➜ Explicit dependency on target 'IPFSHandler_IPFSHandler' in project 'IPFSHandler'
+➜ Explicit dependency on target 'IPFSAPICleint' in project 'IPFSHandler'
+Target 'IPFSAPICleint' in project 'IPFSHandler'
+➜ Explicit dependency on target 'IPFSHandler_IPFSAPICleint' in project 'IPFSHandler'
+Target 'IPFSHandler_IPFSAPICleint' in project 'IPFSHandler' (no dependencies)
+Target 'IPFSHandler_IPFSHandler' in project 'IPFSHandler' (no dependencies)

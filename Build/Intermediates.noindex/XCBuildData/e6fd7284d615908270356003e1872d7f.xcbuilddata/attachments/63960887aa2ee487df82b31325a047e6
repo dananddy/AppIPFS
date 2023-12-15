@@ -1,0 +1,4 @@
+module IPFSHandler {
+header "IPFSHandler-Swift.h"
+export *
+}

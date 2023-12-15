@@ -14,6 +14,13 @@
 		E3DD26B42B1BDA49009F431B /* AppIPFSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3DD26B32B1BDA49009F431B /* AppIPFSTests.swift */; };
 		E3DD26BE2B1BDA49009F431B /* AppIPFSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3DD26BD2B1BDA49009F431B /* AppIPFSUITests.swift */; };
 		E3DD26C02B1BDA49009F431B /* AppIPFSUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3DD26BF2B1BDA49009F431B /* AppIPFSUITestsLaunchTests.swift */; };
+		E3EAFF1D2B1D43C90076B480 /* PhotoPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EAFF1C2B1D43C90076B480 /* PhotoPicker.swift */; };
+		E3EAFF1F2B1D44050076B480 /* ActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EAFF1E2B1D44050076B480 /* ActionButton.swift */; };
+		E3EAFF212B1D44580076B480 /* IPFSHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EAFF202B1D44580076B480 /* IPFSHandler.swift */; };
+		E3EAFF232B1D471D0076B480 /* HashStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EAFF222B1D471D0076B480 /* HashStorage.swift */; };
+		E3EAFF252B1D4DCC0076B480 /* PhotoPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EAFF242B1D4DCC0076B480 /* PhotoPresenter.swift */; };
+		E3EAFF272B1D519B0076B480 /* ImageLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3EAFF262B1D519B0076B480 /* ImageLoader.swift */; };
+		E3EC56862B2CA54E0081F312 /* IPFSHandler in Frameworks */ = {isa = PBXBuildFile; productRef = E3EC56852B2CA54E0081F312 /* IPFSHandler */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +51,12 @@
 		E3DD26B92B1BDA49009F431B /* AppIPFSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AppIPFSUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3DD26BD2B1BDA49009F431B /* AppIPFSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIPFSUITests.swift; sourceTree = "<group>"; };
 		E3DD26BF2B1BDA49009F431B /* AppIPFSUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppIPFSUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		E3EAFF1C2B1D43C90076B480 /* PhotoPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPicker.swift; sourceTree = "<group>"; };
+		E3EAFF1E2B1D44050076B480 /* ActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionButton.swift; sourceTree = "<group>"; };
+		E3EAFF202B1D44580076B480 /* IPFSHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IPFSHandler.swift; sourceTree = "<group>"; };
+		E3EAFF222B1D471D0076B480 /* HashStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashStorage.swift; sourceTree = "<group>"; };
+		E3EAFF242B1D4DCC0076B480 /* PhotoPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPresenter.swift; sourceTree = "<group>"; };
+		E3EAFF262B1D519B0076B480 /* ImageLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +64,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3EC56862B2CA54E0081F312 /* IPFSHandler in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -78,6 +92,7 @@
 				E3DD26B22B1BDA49009F431B /* AppIPFSTests */,
 				E3DD26BC2B1BDA49009F431B /* AppIPFSUITests */,
 				E3DD26A02B1BDA45009F431B /* Products */,
+				E3EAFF292B1DC5A70076B480 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -98,6 +113,12 @@
 				E3DD26A42B1BDA45009F431B /* ContentView.swift */,
 				E3DD26A62B1BDA48009F431B /* Assets.xcassets */,
 				E3DD26A82B1BDA48009F431B /* Preview Content */,
+				E3EAFF1C2B1D43C90076B480 /* PhotoPicker.swift */,
+				E3EAFF1E2B1D44050076B480 /* ActionButton.swift */,
+				E3EAFF202B1D44580076B480 /* IPFSHandler.swift */,
+				E3EAFF222B1D471D0076B480 /* HashStorage.swift */,
+				E3EAFF242B1D4DCC0076B480 /* PhotoPresenter.swift */,
+				E3EAFF262B1D519B0076B480 /* ImageLoader.swift */,
 			);
 			path = AppIPFS;
 			sourceTree = "<group>";
@@ -127,6 +148,13 @@
 			path = AppIPFSUITests;
 			sourceTree = "<group>";
 		};
+		E3EAFF292B1DC5A70076B480 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -143,6 +171,9 @@
 			dependencies = (
 			);
 			name = AppIPFS;
+			packageProductDependencies = (
+				E3EC56852B2CA54E0081F312 /* IPFSHandler */,
+			);
 			productName = AppIPFS;
 			productReference = E3DD269F2B1BDA45009F431B /* AppIPFS.app */;
 			productType = "com.apple.product-type.application";
@@ -215,6 +246,9 @@
 				Base,
 			);
 			mainGroup = E3DD26962B1BDA45009F431B;
+			packageReferences = (
+				E3EC56842B2CA54D0081F312 /* XCRemoteSwiftPackageReference "IPFS-handler" */,
+			);
 			productRefGroup = E3DD26A02B1BDA45009F431B /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -258,7 +292,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3DD26A52B1BDA45009F431B /* ContentView.swift in Sources */,
+				E3EAFF212B1D44580076B480 /* IPFSHandler.swift in Sources */,
 				E3DD26A32B1BDA45009F431B /* AppIPFSApp.swift in Sources */,
+				E3EAFF232B1D471D0076B480 /* HashStorage.swift in Sources */,
+				E3EAFF1D2B1D43C90076B480 /* PhotoPicker.swift in Sources */,
+				E3EAFF252B1D4DCC0076B480 /* PhotoPresenter.swift in Sources */,
+				E3EAFF272B1D519B0076B480 /* ImageLoader.swift in Sources */,
+				E3EAFF1F2B1D44050076B480 /* ActionButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,7 +387,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -404,7 +444,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -588,6 +628,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		E3EC56842B2CA54D0081F312 /* XCRemoteSwiftPackageReference "IPFS-handler" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "git@github.com:dananddy/IPFS-handler.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.0.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		E3EC56852B2CA54E0081F312 /* IPFSHandler */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = E3EC56842B2CA54D0081F312 /* XCRemoteSwiftPackageReference "IPFS-handler" */;
+			productName = IPFSHandler;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = E3DD26972B1BDA45009F431B /* Project object */;
 }

@@ -1,0 +1,16 @@
+{
+  "source": "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/PhotoPresenter.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Images"
+      },
+      {
+        "comment": "",
+        "key": "image"
+      }
+    ]
+  },
+  "version": 1
+}

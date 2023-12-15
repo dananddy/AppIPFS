@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPICleint-master.dia",
+    "emit-module-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPICleint-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPICleint-master-emit-module.dia",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPICleint-master.swiftdeps"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/DerivedSources/resource_bundle_accessor.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/resource_bundle_accessor~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/IPFSAPIClient/IPFSAPIClient.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAPIClient~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Request/Arguments.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/Arguments~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Request/IPFSAddRequest.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddRequest~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Request/IPFSGetRequest.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetRequest~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Request/IPFSRequest.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSRequest~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Response/IPFSAddResponse.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSAddResponse~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Response/IPFSGetResponse.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSGetResponse~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Response/IPFSResponse.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/IPFSResponse~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/IPFSHandler/Sources/IPFSAPICleint/Settings/APISettings.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.dia",
+    "index-unit-output-path" : "/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/IPFSHandler.build/Debug-iphoneos/IPFSAPICleint.build/Objects-normal/arm64/APISettings~partial.swiftmodule"
+  }
+}

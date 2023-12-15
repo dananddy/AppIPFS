@@ -1,0 +1,98 @@
+{
+  "" : {
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFS-master.dia",
+    "emit-module-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFS-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFS-master-emit-module.dia",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFS-master.swiftdeps"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/ActionButton.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ActionButton~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/AppIPFSApp.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/AppIPFSApp~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/ContentView.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/HashStorage.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/HashStorage~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/ImageLoader.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/ImageLoader~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/IPFSHandler.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/IPFSHandler~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/PhotoPicker.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPicker~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/AppIPFS/PhotoPresenter.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/PhotoPresenter~partial.swiftmodule"
+  },
+  "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/busido/Documents/IPFS App/AppIPFS/Build/Intermediates.noindex/AppIPFS.build/Debug-iphonesimulator/AppIPFS.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

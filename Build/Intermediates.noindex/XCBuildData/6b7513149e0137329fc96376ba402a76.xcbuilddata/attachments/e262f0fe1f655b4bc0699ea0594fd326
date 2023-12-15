@@ -1,0 +1,4 @@
+module IPFSAPICleint {
+header "IPFSAPICleint-Swift.h"
+export *
+}

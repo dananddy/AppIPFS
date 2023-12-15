@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ipfs-handler",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:dananddy/IPFS-handler.git",
+      "state" : {
+        "revision" : "eae2e23066874c0fa947ad63aac99e8e8fddc4b4",
+        "version" : "0.0.3"
+      }
+    }
+  ],
+  "version" : 2
+}
